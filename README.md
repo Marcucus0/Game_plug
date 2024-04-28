@@ -49,7 +49,7 @@ It's done! I wish you pleasure with your game!
 
 ## Game Tested 
 Click on the games to have informations about the setup
-- [Celeste](https://store.steampowered.com/app/504230/Celeste/)
+- [Celeste](https://github.com/Marcucus0/Game_plug/blob/main/games/Celeste.md)
 - Other games in review
 
 If you test it on games, don't forget to give me feedback :-)
