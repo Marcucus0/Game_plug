@@ -31,7 +31,7 @@ async def main():
     scriptCounter = 0
     gameCounter = 0
     client = await connect()
-    device = client.devices[1]
+    device = client.devices[0]
 
     # On stock la value initale de mort
     with OpenProcess(process_name=processName) as process:
