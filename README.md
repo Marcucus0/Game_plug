@@ -1,4 +1,3 @@
-
 # Game-plug
 
 Play games, but with pleasure...
@@ -49,7 +48,7 @@ Start your game and try to find the memory address of the death counter or other
 It's done! I wish you pleasure with your game!
 
 ## Game Tested 
-
+Click on the games to have informations about the setup
 - [Celeste](https://store.steampowered.com/app/504230/Celeste/)
 - Other games in review
 
