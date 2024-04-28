@@ -53,7 +53,7 @@ async def main():
 
     # If we have any device we can access it by its ID:
     if len(client.devices) != 0:
-        device = client.devices[1]
+        device = client.devices[0]
 
         # The most common case among devices is that they have some actuators
         # which accept a scalar value (0.0-1.0) as their command.
